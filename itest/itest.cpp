@@ -5,7 +5,7 @@
 
 int lol()
 {
-	
+	printf("lol");
 
 	return 0;
 }
