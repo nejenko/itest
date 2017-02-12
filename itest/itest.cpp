@@ -3,10 +3,16 @@
 
 #include "stdafx.h"
 
+int lol()
+{
+	
+
+	return 0;
+}
 
 int main()
 {
-	printf("Hello!");
+	printf("1");
 
 
 
