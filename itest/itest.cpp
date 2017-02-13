@@ -2,17 +2,24 @@
 //
 
 #include "stdafx.h"
+#include "targetver.h"
 
+
+void ROFL()
+{
+	printf("Hello world! I work with gitHub!");
+}
 
 int main()
 {
-	printf("Hello world!1111111111111111111111111111");
+	printf("Hello world! I work with gitHub!");
 
-
-
+	
+	ROFL();
 
 
 	printf("TheEnd!");
+	printf("Goodbye!");
     return 0;
 }
 
