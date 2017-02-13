@@ -18,6 +18,6 @@ int main()
 
 int jon()
 {
-
+	printf("Hello! ROFL");
 	return 0;
 }
